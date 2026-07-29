@@ -60,6 +60,7 @@
     </dependencies>
 
     <build>
+        <finalName>test_jenkins</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
