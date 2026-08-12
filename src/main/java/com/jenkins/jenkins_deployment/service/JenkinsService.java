@@ -12,6 +12,6 @@ public class JenkinsService {
 
     public ResponseEntity<?> test()
     {
-        return ResponseEntity.ok("Working JENKINS");
+        return ResponseEntity.ok("Working JENKINS Test");
     }
 }
